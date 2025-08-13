@@ -1,2 +1,2 @@
-# belajar-kolaborasi
-Simulasi kolaborasi dengan GitHub
+# Belajar Kolaborasi
+Belajar GitHub di Dicoding sangat menyenangkan!
